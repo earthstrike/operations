@@ -2,6 +2,7 @@
 
 ## Introduction
 Many organizational materials - documents, spreadsheets, etc. - have been created to facilitate the internal operations of Earth Strike. To this point, these materials have been scattered in various places - pinned messages on Discord, threads and attachments on Loomio, folders in Google Drive, etc. - where they quickly become lost, forgotten, and out-of-date.
+
 To mitigate this issue, this repository will serve as the central place for storing, accessing, and modifying all necessary resources for our internal operations.
 
 ### Why GitHub?
@@ -9,7 +10,9 @@ Git is a **version control system**, meaning it is uniquely suited to working on
 
 ## Contents
 Topic-specific materials relevant to our international teams are stored in direct subfolders of the root directory; e.g. `graphics`, `outreach`.
+
 Materials specific to certain national chapters can be found in the appropriate subfolder of the `countries` directory, and should be sorted in a similar way; e.g. US-specific outreach materials can be found in `countries/united-states/outreach`.
+
 When necessary, these country directories will be subdivided further into regions and cities, again with a similar structure. Materials for the Canadian province of Nova Scotia, for example, can be found in `countries/canada/provinces/nova-scotia`.
 
 A brief list of the topic-specific directories and their contents:
