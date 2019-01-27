@@ -20,7 +20,7 @@ A brief list of the topic-specific directories and their contents:
 ### Graphics
 **Internal** materials useful to members of the international Graphics Team. Materials intended for public use, e.g. printable and postable graphics, informational documents about Earth Strike, etc. should go in the public [materials-kit repository](https://github.com/earthstrike/materials-kit).
 
-### Operations
+### Structure
 Materials related to the ongoing discussion about Earth Strike's organizational structure, including the many restructuring proposals and agreements that have been created and debated at length.
 
 ### Outreach
