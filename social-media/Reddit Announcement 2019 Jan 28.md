@@ -41,11 +41,11 @@ We're here to make sure you don't need to reinvent the wheel if you don't want t
 
 ## Zulip!
 
-Live chat about our internal operations - general organizing tactics, strategies for outreach and social media, the website, etc. - will likely be moving away from Discord, to a platform called [Zulip](https://zulipchat.com). Zulip is a **free, open-source** alternative to Slack and Discord with a unique, powerful threading model that is perfectly suited to organized discussion.
+Live chat about our internal operations - general organizing tactics, strategies for outreach and social media, the website, etc. - will **likely** be moving away from Discord, to a platform called [Zulip](https://zulipchat.com). Zulip is a **free, open-source** alternative to Slack and Discord with a unique, powerful threading model that is perfectly suited to organized discussion.
 
 There's a reason Zulip advertises itself as "the most productive team chat". A few of us have tried it out in testing, and it is AMAZING. We're currently setting up the server as we speak, and I for one am super excited.
 
-For those who have (somehow) become attached to our International Discord Server, don't fret. This server will stay, as the place to go for general, casual chat, inviting your friends, sharing memes, and arguing about the same five political topics on a weekly rotation. We've made great strides in re-organizing and beautifying the server, and we're not going to let all of that go to waste.
+For those who have (somehow) become attached to our International Discord Server, don't fret. If we do make the switch, the Discord server will stay, as the place to go for general, casual chat, inviting your friends, sharing memes, and arguing about the same five political topics on a weekly rotation. We've made great strides in re-organizing and beautifying the server, and we're not going to let all of that go to waste.
 
 # The Website Map
 
