@@ -3,6 +3,7 @@
 If you're in GitHub, use these links to directly open the documents in this folder.
 
 [Onboarding Guide](https://docs.google.com/open?id=1UNPA9QiTaWF5vGD7P-cuVJpjTpoPtID-JMCgVdWbkQ4)
+
 [Supersheet](https://docs.google.com/open?id=1Y0_So_xDU6JpBZTb6O6ZA5DubIn27uCxmPgOocGl6U0)
 
 ***
