@@ -2,7 +2,7 @@
 
 If you're in GitHub, use these links to directly open the documents in this folder.
 
-[Unions Contact Info](https://docs.google.com/open?id=1IUimW6nRIr8CeHv145F36kXnD6s2uJzU7clt3ekruqU)
+[List of Unions](https://docs.google.com/open?id=17Qc7WGTs-FVRr2MHC739KQi_65Aho42V_bwrK5mjf7g)
 
 ***
 
