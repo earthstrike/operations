@@ -8,6 +8,8 @@ If you're in GitHub, use these links to directly open the documents in this fold
 
 [International Structure Directive (Alana et al.)](https://docs.google.com/open?id=1tkxFUvCEn7B_jRuXB1ZhBvJM7eWCkTSyMnH1PyAhaqw)
 
+[Post-CCC Roadmap Proposal (hPerks)](https://docs.google.com/open?id=1mv18Tn7KjOvPaIUMj4CgYZnHTtME4p7fJl0WSFHRsG8)
+
 [Restructuring Proposal (gossfunkel & UK chapter)](https://docs.google.com/open?id=1GFzng1ZKCArUMp-sdq9T4ETyZpovq6XezdCd2W_WGz4)
 
 [Restructuring Proposal (hoggboss)](https://docs.google.com/open?id=14JCuph2hYKHKbuMIWKj0vb0h2xvicij82HAEWzU8ohc)
