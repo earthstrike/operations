@@ -6,4 +6,6 @@ If you're in GitHub, use these links to directly open the documents in this fold
 
 [2019 Feb 3](https://docs.google.com/open?id=1mZyJiXjn08iMZvUxz1DTGSnU2oGmgZYtAfTEJfUKik4)
 
+[2019 Feb 10](https://docs.google.com/open?id=1YgMRH6LuAq3uYd0Mnp15EH9czTkEsyzJXU5lkGsv08M)
+
 ***
