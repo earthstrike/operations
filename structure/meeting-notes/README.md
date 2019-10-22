@@ -10,8 +10,8 @@ If you're in GitHub, use these links to directly open the documents in this fold
 
 [2019 Feb 10 (NOs)](https://docs.google.com/document/d/1x_jIcieeoq3EgAoILEKiz2zxvt3r3DxJgUcnIiXYRzk)
 
-[2019 Oct 7 ] (https://cryptpad.fr/pad/#/2/pad/edit/vf86bVhgQlrmSPchOtZkcHea/) 
+[2019 Oct 7 ](https://cryptpad.fr/pad/#/2/pad/edit/vf86bVhgQlrmSPchOtZkcHea/) 
 
-[2019 Oct 20] (https://pad.riseup.net/p/ESINTL_O20-keep) 
+[2019 Oct 20](https://pad.riseup.net/p/ESINTL_O20-keep) 
 
 ***
