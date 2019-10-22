@@ -14,7 +14,8 @@ If you're in GitHub, use these links to directly open the documents in this fold
 
 [Restructuring Proposal (hoggboss)](https://docs.google.com/open?id=14JCuph2hYKHKbuMIWKj0vb0h2xvicij82HAEWzU8ohc)
 
-[Structure Oct 18] [https://docs.google.com/document/d/14mmi88YW5e2uXKdDUGxwAyUUHba2gv3E3CzA8K0JLHc/edit?usp=sharing]
+[Structure Oct 18](https://docs.google.com/document/d/14mmi88YW5e2uXKdDUGxwAyUUHba2gv3E3CzA8K0JLHc/edit?usp=sharing)
+
 ***
 
 # Earth Strike: Restructuring Materials
